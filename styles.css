@@ -1,0 +1,84 @@
+body{
+    background-image: url(https://pbs.twimg.com/media/FJELP10aMAIqAs0.jpg:large);
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
+
+
+#hyperpop
+{
+    height: 150px;
+    width: 400px;
+    background: rgb(202, 12, 129);
+    float: left;
+    position: absolute;
+    top: 124px;
+    left: 10%;
+    border-radius: 8px;
+
+}
+#instrumentos
+{
+    height: 152px;
+    width:370px;
+    background: rgb(47, 148, 0);
+    position: relative;
+    top: -32px;
+    left: 64.8%;
+    border-radius: 5px;
+}
+#popularidad
+{
+    height: 170px;
+    width: 350px;
+    background: rgb(94, 28, 100);
+    top: 122px;
+    left: 39%;
+    border-radius: 2px;
+    position: absolute;
+    
+}
+
+#creacion
+{
+    width: 799px;
+    background: rgb(214, 78, 24);
+    position: absolute;
+    top: 265px;
+    left: 10%;
+    border-radius: 4px;
+}
+
+#significado
+{
+    width: 800px;
+    background: rgb(135, 68, 141);
+    float: left;
+    position: absolute;
+    top: 404px;
+    left: 10%;
+    border-radius: 2px;
+
+}
+.borra{
+    clear:both;
+}
+
+#cabecera{
+    position: static;
+    color: rgb(0, 0, 0);
+  text-anchor: 300px;
+    font-size: 30px;
+    border-radius: 35px;
+
+}
+#futuro
+{
+    height: 259px;
+    width: 379px;
+    background: rgb(11, 112, 126);
+    position: absolute;
+    top: 266px;
+    left: 68.5%;
+    border-radius: 3px;
+}
